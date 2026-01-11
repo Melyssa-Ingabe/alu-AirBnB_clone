@@ -1,0 +1,4 @@
+*pyc
+*__pycache__*
+file.json
+test_save_reload.py
